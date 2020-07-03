@@ -1,0 +1,16 @@
+
+table
+{
+    margin:250px auto;
+	border-spacing: 3px;
+}
+td{
+	border: 1px solid pink;
+}
+
+
+
+td
+{
+	padding: 10px;
+}

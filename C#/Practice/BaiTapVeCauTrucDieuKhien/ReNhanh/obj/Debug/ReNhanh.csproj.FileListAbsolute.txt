@@ -1,0 +1,7 @@
+G:\visual_studio_2019\C#\Practice\BaiTapVeCauTrucDieuKhien\ReNhanh\bin\Debug\ReNhanh.exe.config
+G:\visual_studio_2019\C#\Practice\BaiTapVeCauTrucDieuKhien\ReNhanh\bin\Debug\ReNhanh.exe
+G:\visual_studio_2019\C#\Practice\BaiTapVeCauTrucDieuKhien\ReNhanh\bin\Debug\ReNhanh.pdb
+G:\visual_studio_2019\C#\Practice\BaiTapVeCauTrucDieuKhien\ReNhanh\obj\Debug\ReNhanh.csprojAssemblyReference.cache
+G:\visual_studio_2019\C#\Practice\BaiTapVeCauTrucDieuKhien\ReNhanh\obj\Debug\ReNhanh.csproj.CoreCompileInputs.cache
+G:\visual_studio_2019\C#\Practice\BaiTapVeCauTrucDieuKhien\ReNhanh\obj\Debug\ReNhanh.exe
+G:\visual_studio_2019\C#\Practice\BaiTapVeCauTrucDieuKhien\ReNhanh\obj\Debug\ReNhanh.pdb

@@ -1,0 +1,10 @@
+G:\visual_studio_2019\C#\winform\winform\MayTinhCamTay\bin\Debug\MayTinhCamTay.exe.config
+G:\visual_studio_2019\C#\winform\winform\MayTinhCamTay\bin\Debug\MayTinhCamTay.exe
+G:\visual_studio_2019\C#\winform\winform\MayTinhCamTay\bin\Debug\MayTinhCamTay.pdb
+G:\visual_studio_2019\C#\winform\winform\MayTinhCamTay\obj\Debug\MayTinhCamTay.csprojAssemblyReference.cache
+G:\visual_studio_2019\C#\winform\winform\MayTinhCamTay\obj\Debug\MayTinhCamTay.Form1.resources
+G:\visual_studio_2019\C#\winform\winform\MayTinhCamTay\obj\Debug\MayTinhCamTay.Properties.Resources.resources
+G:\visual_studio_2019\C#\winform\winform\MayTinhCamTay\obj\Debug\MayTinhCamTay.csproj.GenerateResource.cache
+G:\visual_studio_2019\C#\winform\winform\MayTinhCamTay\obj\Debug\MayTinhCamTay.csproj.CoreCompileInputs.cache
+G:\visual_studio_2019\C#\winform\winform\MayTinhCamTay\obj\Debug\MayTinhCamTay.exe
+G:\visual_studio_2019\C#\winform\winform\MayTinhCamTay\obj\Debug\MayTinhCamTay.pdb

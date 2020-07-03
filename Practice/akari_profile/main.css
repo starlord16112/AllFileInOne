@@ -1,0 +1,52 @@
+*
+{
+	font-family: 'Open Sans', sans-serif;
+	color: #CD6371;
+}
+#fullCard
+{
+	border: 1px solid #CD6371;
+	transition: 1s;
+	text-align: center;
+	margin:35px auto;
+	max-width: 300px;
+}
+#fullCard:hover
+{   transition: .9s;
+	box-shadow:5px 5px 10px 5px grey ;
+	border: none;
+}
+#image
+{
+  
+  
+   height: auto;
+   width: auto;  
+}
+a{
+	display: inline-block;
+	text-decoration: none;
+}
+.link
+{
+	list-style: none;
+}
+#foot
+{
+	margin: 0;
+	background-color: #CD6371;
+	color: white;
+	padding: 10px;
+}
+#foot a
+{
+	color: white;
+}
+#foot:hover,a:hover
+{
+	opacity: .6;
+}
+#job
+{
+  opacity: .6;
+}

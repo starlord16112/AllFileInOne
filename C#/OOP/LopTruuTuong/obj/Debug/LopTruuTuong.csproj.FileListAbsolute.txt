@@ -1,0 +1,14 @@
+G:\visual_studio_2019\C#\Practice\BaiTapVeCauTrucDieuKhien\LopTruuTuong\bin\Debug\LopTruuTuong.exe.config
+G:\visual_studio_2019\C#\Practice\BaiTapVeCauTrucDieuKhien\LopTruuTuong\bin\Debug\LopTruuTuong.exe
+G:\visual_studio_2019\C#\Practice\BaiTapVeCauTrucDieuKhien\LopTruuTuong\bin\Debug\LopTruuTuong.pdb
+G:\visual_studio_2019\C#\Practice\BaiTapVeCauTrucDieuKhien\LopTruuTuong\obj\Debug\LopTruuTuong.csprojAssemblyReference.cache
+G:\visual_studio_2019\C#\Practice\BaiTapVeCauTrucDieuKhien\LopTruuTuong\obj\Debug\LopTruuTuong.csproj.CoreCompileInputs.cache
+G:\visual_studio_2019\C#\Practice\BaiTapVeCauTrucDieuKhien\LopTruuTuong\obj\Debug\LopTruuTuong.exe
+G:\visual_studio_2019\C#\Practice\BaiTapVeCauTrucDieuKhien\LopTruuTuong\obj\Debug\LopTruuTuong.pdb
+G:\visual_studio_2019\C#\OOP\LopTruuTuong\bin\Debug\LopTruuTuong.exe.config
+G:\visual_studio_2019\C#\OOP\LopTruuTuong\bin\Debug\LopTruuTuong.exe
+G:\visual_studio_2019\C#\OOP\LopTruuTuong\bin\Debug\LopTruuTuong.pdb
+G:\visual_studio_2019\C#\OOP\LopTruuTuong\obj\Debug\LopTruuTuong.csprojAssemblyReference.cache
+G:\visual_studio_2019\C#\OOP\LopTruuTuong\obj\Debug\LopTruuTuong.csproj.CoreCompileInputs.cache
+G:\visual_studio_2019\C#\OOP\LopTruuTuong\obj\Debug\LopTruuTuong.exe
+G:\visual_studio_2019\C#\OOP\LopTruuTuong\obj\Debug\LopTruuTuong.pdb

@@ -1,0 +1,10 @@
+G:\visual_studio_2019\C#\winform\App1\App1\obj\Debug\App1.csprojAssemblyReference.cache
+G:\visual_studio_2019\C#\winform\App1\App1\obj\Debug\App1.Form1.resources
+G:\visual_studio_2019\C#\winform\App1\App1\obj\Debug\App1.Properties.Resources.resources
+G:\visual_studio_2019\C#\winform\App1\App1\obj\Debug\App1.csproj.GenerateResource.cache
+G:\visual_studio_2019\C#\winform\App1\App1\obj\Debug\App1.csproj.CoreCompileInputs.cache
+G:\visual_studio_2019\C#\winform\App1\App1\bin\Debug\App1.exe.config
+G:\visual_studio_2019\C#\winform\App1\App1\bin\Debug\App1.exe
+G:\visual_studio_2019\C#\winform\App1\App1\bin\Debug\App1.pdb
+G:\visual_studio_2019\C#\winform\App1\App1\obj\Debug\App1.exe
+G:\visual_studio_2019\C#\winform\App1\App1\obj\Debug\App1.pdb

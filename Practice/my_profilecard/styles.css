@@ -1,0 +1,144 @@
+*{
+	margin:0px;
+	padding:0px;
+}
+body
+{
+	font-size: 20px;
+    font-family: 'Roboto', sans-serif;
+}
+h2
+{
+	margin-bottom: 10px;
+}
+h2:hover{
+  color: #AA4483;
+}
+#container
+{
+	text-align: center;
+	width:800px;
+	margin: 50px auto;
+}
+section
+{
+	background-color: white;
+	margin-bottom: 20px;
+	box-shadow: 2px 2px 5px 2px grey;
+	transition: .6s box-shadow;
+}
+section:hover
+{
+	border-radius: 10px;
+	box-shadow: initial;
+	transition: .6s;
+		
+}
+#infor
+{
+	width: 800px;
+	padding: 15px 0px;
+	
+}
+#infor img
+{
+   width: auto;
+   height: auto;
+   max-width: 150px;
+   max-height: 150px;
+}
+#skill
+{
+	width: 800px;
+	height: 100px;
+}
+.btn
+{
+	background-color: white;
+	padding: 7px;
+	border: 2px solid white;
+	margin-right: 25px;
+}
+#contact
+{
+	padding: 10px;
+}
+button.html
+{
+  border-color: #E54C21;
+  color: #E54C21;
+
+}
+button.html:hover
+{
+  color:white;
+  background-color: #E54C21;
+
+}
+button.css
+{
+	color: #086EB6;
+	border-color: #086EB6;
+}
+button.css:hover
+{
+  color:white;
+  background-color: #086EB6;
+
+}
+button.cpp
+{
+   color: #0080CC;
+   border-color: #0080CC;
+}
+button.cpp:hover
+{
+  color:white;
+  background-color:#0080CC;
+
+}
+button.javascript
+{
+	color: #FFD93E;
+    border-color: #FFD93E;
+
+}
+button.javascript:hover
+{
+	color: white;
+    background-color:#FFD93E;
+
+}
+.fab
+{
+	border-radius: 10px;
+	width: 30px;
+    font-size: 30px;
+	padding: 20px;
+	font-size: 30px;
+	margin-right: 15px;
+}
+.fab:hover
+{
+	opacity: .6;
+}
+.fa-facebook-f
+{
+	background-color: #3D5B99;
+	color: white;
+}
+.fa-instagram
+{
+	background-color: #E1003E;
+	color: white;
+}
+.fa-twitter
+{
+	background-color:#1DA1F2;
+	color: white;
+}
+.fa-github
+{
+	background-color:brown;
+	color: white;
+}

@@ -1,0 +1,10 @@
+G:\visual_studio_2019\C#\winform\BaiTap\TinhToanTongHop\bin\Debug\TinhToanTongHop.exe.config
+G:\visual_studio_2019\C#\winform\BaiTap\TinhToanTongHop\bin\Debug\TinhToanTongHop.exe
+G:\visual_studio_2019\C#\winform\BaiTap\TinhToanTongHop\bin\Debug\TinhToanTongHop.pdb
+G:\visual_studio_2019\C#\winform\BaiTap\TinhToanTongHop\obj\Debug\TinhToanTongHop.csprojAssemblyReference.cache
+G:\visual_studio_2019\C#\winform\BaiTap\TinhToanTongHop\obj\Debug\TinhToanTongHop.Form1.resources
+G:\visual_studio_2019\C#\winform\BaiTap\TinhToanTongHop\obj\Debug\TinhToanTongHop.Properties.Resources.resources
+G:\visual_studio_2019\C#\winform\BaiTap\TinhToanTongHop\obj\Debug\TinhToanTongHop.csproj.GenerateResource.cache
+G:\visual_studio_2019\C#\winform\BaiTap\TinhToanTongHop\obj\Debug\TinhToanTongHop.csproj.CoreCompileInputs.cache
+G:\visual_studio_2019\C#\winform\BaiTap\TinhToanTongHop\obj\Debug\TinhToanTongHop.exe
+G:\visual_studio_2019\C#\winform\BaiTap\TinhToanTongHop\obj\Debug\TinhToanTongHop.pdb

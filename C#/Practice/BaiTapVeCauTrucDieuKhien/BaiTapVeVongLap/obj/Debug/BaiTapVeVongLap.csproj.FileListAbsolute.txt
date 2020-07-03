@@ -1,0 +1,7 @@
+G:\visual_studio_2019\C#\Practice\BaiTapVeCauTrucDieuKhien\BaiTapVeVongLap\bin\Debug\BaiTapVeVongLap.exe.config
+G:\visual_studio_2019\C#\Practice\BaiTapVeCauTrucDieuKhien\BaiTapVeVongLap\bin\Debug\BaiTapVeVongLap.exe
+G:\visual_studio_2019\C#\Practice\BaiTapVeCauTrucDieuKhien\BaiTapVeVongLap\bin\Debug\BaiTapVeVongLap.pdb
+G:\visual_studio_2019\C#\Practice\BaiTapVeCauTrucDieuKhien\BaiTapVeVongLap\obj\Debug\BaiTapVeVongLap.csprojAssemblyReference.cache
+G:\visual_studio_2019\C#\Practice\BaiTapVeCauTrucDieuKhien\BaiTapVeVongLap\obj\Debug\BaiTapVeVongLap.csproj.CoreCompileInputs.cache
+G:\visual_studio_2019\C#\Practice\BaiTapVeCauTrucDieuKhien\BaiTapVeVongLap\obj\Debug\BaiTapVeVongLap.exe
+G:\visual_studio_2019\C#\Practice\BaiTapVeCauTrucDieuKhien\BaiTapVeVongLap\obj\Debug\BaiTapVeVongLap.pdb

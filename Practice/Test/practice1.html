@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>thực hành 1</title>
+	 <style type="text/css">
+	 	body{
+
+	 		font-family:'Pacifico', cursive;
+	 		width: 1000px;	
+	 		margin: 0px auto;
+
+	 	}	
+        #header{
+        	
+        	
+        	background-color: #15AABF;
+
+           
+        }
+        #main #left{ 
+        	
+        	float: left;
+        	width: 300px;
+        	background:#5D68BA;
+        	min-height:400px;
+        }
+        #main #right{
+        	float: left;
+        	width: 700px;
+        	min-height:400px;
+            background:#4CCC46;
+
+        }
+        #footer {  	
+                      
+            clear: left;
+            float: left;
+        	background: #EB57C3;
+        	height: 100px;
+        	width: 1000px;
+        	text-align: center;
+        	line-height: 100px;
+        	margin-top: 1px;
+        	
+
+        	
+        }
+        #header ul{
+            height: 60px;
+        	margin: 0px;
+        	padding: 0px;	
+
+        	
+        }
+        #header ul li
+        {    /*property float left cho các thẻ li nằm trên 1 dòng*/
+        	list-style: none;
+        	float: left;
+            border-right: 1px solid red;
+            padding: 0px 30px;  
+           
+
+
+
+        }
+       	 #header ul li a
+        {/*phải set thuộc tính display block cho thẻ a thì mới set height được*/
+        	text-decoration: none;
+            /*height: 60px;*/
+            line-height: 60px;
+            /*display: block;*/
+          
+            color: white;
+           /* padding: 0px 30px ;*/
+           
+        }
+        #main{
+        	margin-top: 1px;
+            
+        }
+        
+        
+	 </style>
+	
+</head>
+<body>
+<div id="header"><ul>
+	<li><a href="#" title="lorem">Lorem</a></li>
+	<li><a href="#" title="lorem">Lorem</a></li>
+	<li><a href="#" title="lorem">Lorem</a></li>
+	<li><a href="#" title="lorem">Lorem</a></li>
+	<li><a href="#" title="lorem">Lorem</a></li>
+	
+	
+</ul>
+</div> 
+<div id="main">
+	<div id="left">left</div>
+	<div id="right">right</div>
+</div> 
+<div id="footer">bottom</div> 
+</body>
+</html>

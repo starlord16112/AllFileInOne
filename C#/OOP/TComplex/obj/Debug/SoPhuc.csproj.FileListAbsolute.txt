@@ -1,0 +1,7 @@
+G:\visual_studio_2019\C#\OOP\TComplex\bin\Debug\TComplex.exe.config
+G:\visual_studio_2019\C#\OOP\TComplex\bin\Debug\TComplex.exe
+G:\visual_studio_2019\C#\OOP\TComplex\bin\Debug\TComplex.pdb
+G:\visual_studio_2019\C#\OOP\TComplex\obj\Debug\SoPhuc.csproj.CoreCompileInputs.cache
+G:\visual_studio_2019\C#\OOP\TComplex\obj\Debug\TComplex.exe
+G:\visual_studio_2019\C#\OOP\TComplex\obj\Debug\TComplex.pdb
+G:\visual_studio_2019\C#\OOP\TComplex\obj\Debug\SoPhuc.csprojAssemblyReference.cache

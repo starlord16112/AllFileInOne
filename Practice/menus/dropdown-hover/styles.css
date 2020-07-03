@@ -1,0 +1,55 @@
+*{
+	margin:0px;
+	padding: 0px;
+}
+body
+{
+	font-size: 30px;
+	font-family: 'Roboto', sans-serif;
+	
+}
+#container #menu ul 
+{
+   background-color: aqua;	
+   overflow: hidden;
+	
+}
+#container #menu ul li 
+{
+	list-style-type: none;
+}
+#container #menu>ul>li 
+{
+	text-align: center;
+	width: 150px;
+	height: 65px;
+	line-height: 65px;
+	float: left;	
+}
+
+#container #menu ul li:hover
+{
+	background-color: pink;
+	transition: .5s;
+}
+#container #menu ul li a
+{
+	color: white;
+	text-decoration: none;	
+	text-align: center;
+}
+.list-item .ul-drop
+{
+	display: none;
+}
+.list-item ul li:hover
+{	
+	opacity: .8;
+}
+.li-drop:hover .ul-drop
+{
+   width: 150px;
+  /* left:0;*/
+   position: absolute;
+   display: block;
+}

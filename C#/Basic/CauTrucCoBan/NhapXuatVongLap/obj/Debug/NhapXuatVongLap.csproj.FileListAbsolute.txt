@@ -1,0 +1,7 @@
+G:\visual_studio_2019\C#\Basic\CauTrucCoBan\NhapXuatVongLap\bin\Debug\NhapXuatVongLap.exe.config
+G:\visual_studio_2019\C#\Basic\CauTrucCoBan\NhapXuatVongLap\bin\Debug\NhapXuatVongLap.exe
+G:\visual_studio_2019\C#\Basic\CauTrucCoBan\NhapXuatVongLap\bin\Debug\NhapXuatVongLap.pdb
+G:\visual_studio_2019\C#\Basic\CauTrucCoBan\NhapXuatVongLap\obj\Debug\NhapXuatVongLap.csprojAssemblyReference.cache
+G:\visual_studio_2019\C#\Basic\CauTrucCoBan\NhapXuatVongLap\obj\Debug\NhapXuatVongLap.csproj.CoreCompileInputs.cache
+G:\visual_studio_2019\C#\Basic\CauTrucCoBan\NhapXuatVongLap\obj\Debug\NhapXuatVongLap.exe
+G:\visual_studio_2019\C#\Basic\CauTrucCoBan\NhapXuatVongLap\obj\Debug\NhapXuatVongLap.pdb

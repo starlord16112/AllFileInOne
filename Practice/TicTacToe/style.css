@@ -1,0 +1,30 @@
+
+.cell
+{
+	border-radius: 4px;
+	margin:0 5px 5px 0;
+	float:left;
+	width: 50px;
+	height: 50px;
+	background-color: aqua;
+}
+.cell:hover
+{
+	background-color: #4BEC8F;
+	
+	transition: .5s	;
+}
+.break
+{
+	clear: left;
+}
+#container
+{
+
+    /*width: 300px;
+    height: 300px;*/
+    margin: 0 auto;
+	
+	overflow: hidden;
+	
+}

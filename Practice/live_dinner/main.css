@@ -1,0 +1,93 @@
+*{
+	margin: 0;
+	padding:0;
+
+}
+body
+{
+	font-family: 'Rubik', sans-serif;
+}
+/**css cho header */
+#header
+{
+	overflow: hidden;
+	padding: 15px 30px 15px 15px;
+
+}
+#header__right
+{
+  padding: 0px 70px;
+  float: right;
+
+}
+li.section
+{   line-height:42px;
+	list-style: none;
+	float: right;
+	padding: 15px;
+	font-size: 22px;
+
+
+}
+#logo
+{
+	float: left;
+}
+.section a
+{
+	padding: 10px;
+	color:  #D55921;
+	text-decoration: none;
+
+}
+.section a:hover
+{
+	border-radius: 3px;
+	transition: .3s;
+	background-color: #D55921;
+	color:  white;
+	text-decoration: none;
+}
+.active a
+{
+	padding: 10px;
+	background-color: #D55921;
+	color: white;
+}
+/*css cho slider*/
+#main__slider
+{
+
+	width: 100%;
+	height: 800px;
+	background-image: url(images/slider-01.jpg);
+	background-size: cover;
+	color: white;
+}	
+#main__slider h1
+{
+  padding: 50px 50px 0px;
+  font-size: 50px;	
+}
+#main__slider p
+{
+	padding-left: 50px;
+
+}
+#main__slider button
+{   
+	border-radius: 7px;
+	border: none;
+	margin:200px;
+	padding: 25px;
+	color: #D55921;
+	font-size: 25px;
+	background-color: white;
+	font-weight: bold;
+}
+#main__slider button:hover
+{
+	background-color:  #D55921;
+	color: white;
+	transition: 1.3s;
+}

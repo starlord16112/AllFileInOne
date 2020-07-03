@@ -1,0 +1,7 @@
+G:\visual_studio_2019\C#\OOP\Human\bin\Debug\Human.exe.config
+G:\visual_studio_2019\C#\OOP\Human\bin\Debug\Human.exe
+G:\visual_studio_2019\C#\OOP\Human\bin\Debug\Human.pdb
+G:\visual_studio_2019\C#\OOP\Human\obj\Debug\Human.csprojAssemblyReference.cache
+G:\visual_studio_2019\C#\OOP\Human\obj\Debug\Human.csproj.CoreCompileInputs.cache
+G:\visual_studio_2019\C#\OOP\Human\obj\Debug\Human.exe
+G:\visual_studio_2019\C#\OOP\Human\obj\Debug\Human.pdb

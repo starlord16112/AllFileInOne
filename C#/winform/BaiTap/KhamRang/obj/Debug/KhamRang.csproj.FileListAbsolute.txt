@@ -1,0 +1,10 @@
+G:\visual_studio_2019\C#\winform\BaiTap\KhamRang\bin\Debug\KhamRang.exe.config
+G:\visual_studio_2019\C#\winform\BaiTap\KhamRang\bin\Debug\KhamRang.exe
+G:\visual_studio_2019\C#\winform\BaiTap\KhamRang\bin\Debug\KhamRang.pdb
+G:\visual_studio_2019\C#\winform\BaiTap\KhamRang\obj\Debug\KhamRang.csprojAssemblyReference.cache
+G:\visual_studio_2019\C#\winform\BaiTap\KhamRang\obj\Debug\KhamRang.Form1.resources
+G:\visual_studio_2019\C#\winform\BaiTap\KhamRang\obj\Debug\KhamRang.Properties.Resources.resources
+G:\visual_studio_2019\C#\winform\BaiTap\KhamRang\obj\Debug\KhamRang.csproj.GenerateResource.cache
+G:\visual_studio_2019\C#\winform\BaiTap\KhamRang\obj\Debug\KhamRang.csproj.CoreCompileInputs.cache
+G:\visual_studio_2019\C#\winform\BaiTap\KhamRang\obj\Debug\KhamRang.exe
+G:\visual_studio_2019\C#\winform\BaiTap\KhamRang\obj\Debug\KhamRang.pdb

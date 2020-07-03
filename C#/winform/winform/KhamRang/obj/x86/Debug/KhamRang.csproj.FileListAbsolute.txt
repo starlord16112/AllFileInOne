@@ -1,0 +1,9 @@
+D:\winform\KhamRang\bin\Debug\KhamRang.exe
+D:\winform\KhamRang\bin\Debug\KhamRang.pdb
+D:\winform\KhamRang\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\winform\KhamRang\obj\x86\Debug\KhamRang.Form1.resources
+D:\winform\KhamRang\obj\x86\Debug\KhamRang.Properties.Resources.resources
+D:\winform\KhamRang\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\winform\KhamRang\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\winform\KhamRang\obj\x86\Debug\KhamRang.exe
+D:\winform\KhamRang\obj\x86\Debug\KhamRang.pdb

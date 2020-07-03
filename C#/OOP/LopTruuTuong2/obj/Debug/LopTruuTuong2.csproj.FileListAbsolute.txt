@@ -1,0 +1,7 @@
+G:\visual_studio_2019\C#\OOP\LopTruuTuong2\obj\Debug\LopTruuTuong2.csprojAssemblyReference.cache
+G:\visual_studio_2019\C#\OOP\LopTruuTuong2\obj\Debug\LopTruuTuong2.csproj.CoreCompileInputs.cache
+G:\visual_studio_2019\C#\OOP\LopTruuTuong2\bin\Debug\LopTruuTuong2.exe.config
+G:\visual_studio_2019\C#\OOP\LopTruuTuong2\bin\Debug\LopTruuTuong2.exe
+G:\visual_studio_2019\C#\OOP\LopTruuTuong2\bin\Debug\LopTruuTuong2.pdb
+G:\visual_studio_2019\C#\OOP\LopTruuTuong2\obj\Debug\LopTruuTuong2.exe
+G:\visual_studio_2019\C#\OOP\LopTruuTuong2\obj\Debug\LopTruuTuong2.pdb

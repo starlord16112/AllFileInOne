@@ -1,0 +1,33 @@
+body{
+	/*đặt chiều rộng của trang và căn hai bên*/
+	width: 1000px;
+	margin: 0px auto;
+}
+
+#container ul{
+	/*đặt chiều cao của ul khi float li*/
+    height: 78px;
+}
+.icon{
+	list-style: none;
+	float: left;
+	width: 20%;/*đặt chiều cao của từng li bằng ul*/
+	height: 78px;
+	background-color: #555555;
+	
+}
+.icon a{
+	display: block;/*thẻ a chuyển từ inline thành block có width bằng thẻ li*/
+	text-align: center;/*căn giữa icon*/
+	color: white;/*đặt màu cho thẻ i như text*/
+	font-size: 45px;/*đặt kích thước cho icon*/
+	line-height: 78px;/*căn trên dưới bằng đặt chiều cao dòng*/
+}
+
+.active{
+	background-color: #4CAF50;
+}
+.icon:hover{
+	background-color: black;
+	transition: all 0.8s ease;
+}
